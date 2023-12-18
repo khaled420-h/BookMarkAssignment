@@ -1,0 +1,68 @@
+.background {
+     background-color: rgb(247, 236, 222);
+    
+}
+
+
+h1{
+    font-family: 'Pacifico', cursive;
+    /* background-color: aqua;
+    position: relative;
+    isolation: isolate;
+    margin-block-start: 0.67rem;
+    margin-block-end: 0.67rem;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px; */
+
+    
+    /* background-color: black;
+    text-overflow:  clip; */
+    /* font:bold; */
+}
+/* .background h1::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 25%;
+    left: 0;
+    bottom: 10px;
+    background-color: #fec260;
+    transition: height 350ms;
+    transition-duration: 350ms;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: height;
+    z-index: -1;
+} */
+
+.visitbtn {
+    background: rgb(171, 196, 43);
+}
+
+.textcontainer {
+   
+    border-bottom-style: dotted;
+    border-top-style: dotted;
+    border-top-width: 2px;
+    border-bottom-width: 2px ; 
+    
+
+
+}
+
+h2{
+    font-family: 'Righteous', cursive;
+    
+
+}
+label{
+    font-family: "PT Sans Caption", sans-serif;
+
+}
+
+.textcontainer h2{
+    background-image: linear-gradient(to right, #3ca55c, #b5ac49);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
